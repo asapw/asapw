@@ -5,9 +5,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-# ASAPW
-
 <table>
   <tr>
     <td>🟩</td>
